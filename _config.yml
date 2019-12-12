@@ -1,8 +1,13 @@
 plugins:
   - jekyll-relative-links
+  - jekyll-titles-from-headings
 relative_links:
   enabled: true
   collections: true
+ titles_from_headings:
+  enabled:     true
+  strip_title: false
+  collections: false
 include:
   - CONTRIBUTING.md
   - README.md
