@@ -12,7 +12,7 @@ Jeżeli pojawiają się pytania i wątpliwości zawsze możesz je zadać za pomo
 
 ## Wysyłanie zadania
 
-### Wysyłanie projektu aplikacji okienkowej
+### Wysyłanie projektu aplikacji konsolowej
 
 1. Zaloguj się do poczty akademii.
 2. Utwórz wiadomość.
