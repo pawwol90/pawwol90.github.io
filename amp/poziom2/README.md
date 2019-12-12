@@ -8,7 +8,7 @@ W tym celu służy kontrolka o nazwie `Timer`.
 
 Po wrzuceniu kontrolki na okno aplikacji w zakładce `Design` na dole znajdziemy nasz timer.
 
-![Timer w oknie edycji](Grafiki/screen1.png)
+![Timer w oknie edycji](Grafiki/screen1.PNG)
 
 Po wybraniu timer'a w oknie edytora okna, w zakładce properties znajdują się właściwości, w których możemy ustawić:
 
