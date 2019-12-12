@@ -12,7 +12,7 @@ Po wrzuceniu kontrolki na okno aplikacji w zakładce `Design` na dole znajdziemy
 
 Po wybraniu timer'a w oknie edytora okna, w zakładce properties znajdują się właściwości, w których możemy ustawić:
 
-![Właściwości Timera](Grafiki\screen2.png)
+![Właściwości Timera](Grafiki/screen2.png)
 
 | Właściwość | Wartość | Opis |
 |-|-|-|
