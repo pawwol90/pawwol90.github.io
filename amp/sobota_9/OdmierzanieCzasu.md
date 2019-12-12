@@ -1,3 +1,5 @@
+# [Test](http://bit.ly/AkademiaMP_P2T3)
+
 # Odmierzanie czasu
 
 ## Liczenie czasu
