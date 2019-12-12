@@ -4,9 +4,9 @@ plugins:
 relative_links:
   enabled: true
   collections: true
- titles_from_headings:
+titles_from_headings:
   enabled: true
-  strip_title: false
+  strip_title: true
   collections: false
 include:
   - CONTRIBUTING.md
