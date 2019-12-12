@@ -1,8 +1,10 @@
 # Odmierzanie czasu
 
 ## 1. [Test](http://bit.ly/AkademiaMP_P2T3)
-
-## 2. Liczenie czasu
+---
+## 2. [Materiały](Materiały.pdf)
+---
+## 3. Liczenie czasu
 
 Czasem w aplikacji okienkowej konieczne jest wykoanie pewnych operacji w określonych interwałach czasowych lub po odczekaniu określonego czasu. 
 
@@ -95,4 +97,5 @@ Funkcja stop może również być wywoływana w innych miejscach. W ten sposób 
    1. Zrób tak, aby przycisk miał domyślnie tekst "START", po kliknięciu na niego zmienił się na "STOP" i aktuwował liczenie. A po kliknięciu ponownie na ten sam przycisk, ale już z ustawionym napisem "STOP" zatrzymawał się timer i zerował.
    2. Zrób tak, aby po zatrzymaniu timera (wciśnięciu przycisku z napisem "STOP") nie zerował się licznik w Labelu, ale tekst przycisku ustawił się na "Reset" i dopiero po ponownym wciśnięciu przycisku wyzeruj licznik i ustaw tekst labela oraz tekst przycisku na "START".
 
-## [Materiały](Materiały.pdf)
+---
+## 4. Wysyłanie zadania.
