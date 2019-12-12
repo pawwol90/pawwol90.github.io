@@ -4,7 +4,7 @@
 ---
 ## 2. [Materiały](Materiały.pdf)
 ---
-## 3. Liczenie czasu
+## 3. Liczenie czasu w aplikacjach okienkowych
 
 Czasem w aplikacji okienkowej konieczne jest wykoanie pewnych operacji w określonych interwałach czasowych lub po odczekaniu określonego czasu. 
 
