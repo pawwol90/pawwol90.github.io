@@ -96,6 +96,3 @@ Funkcja stop może również być wywoływana w innych miejscach. W ten sposób 
 2. Zmodyfikuj część dotyczącą timera.
    1. Zrób tak, aby przycisk miał domyślnie tekst "START", po kliknięciu na niego zmienił się na "STOP" i aktuwował liczenie. A po kliknięciu ponownie na ten sam przycisk, ale już z ustawionym napisem "STOP" zatrzymawał się timer i zerował.
    2. Zrób tak, aby po zatrzymaniu timera (wciśnięciu przycisku z napisem "STOP") nie zerował się licznik w Labelu, ale tekst przycisku ustawił się na "Reset" i dopiero po ponownym wciśnięciu przycisku wyzeruj licznik i ustaw tekst labela oraz tekst przycisku na "START".
-
----
-## 4. Wysyłanie zadania.
