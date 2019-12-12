@@ -1,4 +1,4 @@
-# Temat 17 - Odmierzanie czasu
+# Odmierzanie czasu
 
 ## Liczenie czasu
 
