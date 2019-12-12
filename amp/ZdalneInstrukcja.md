@@ -12,7 +12,7 @@ Jeżeli pojawiają się pytania i wątpliwości zawsze możesz je zadać za pomo
 
 ## Wysyłanie zadania
 
-### Zadania napisane w konsoli
+### Wysyłanie projektu aplikacji okienkowej
 
 1. Zaloguj się do poczty akademii.
 2. Utwórz wiadomość.
@@ -25,7 +25,7 @@ Jeżeli pojawiają się pytania i wątpliwości zawsze możesz je zadać za pomo
 9. Wyślij.
 10. Po wysłaniu, sprawdź czy nie przyszła wiadomość z błędem, jeżeli przyszła spróbuj wykonać powyższe kroki ponownie.
 
-### Zadanie napisane w aplikacji okienkowej
+### Wysyłanie projektu aplikacji okienkowej
 
 1. Klikamy prawym przyciskiem w zakładce *Projects* na projekt:
 
