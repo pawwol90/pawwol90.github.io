@@ -8,6 +8,64 @@ Po wykonaniu testu przejdź do praktycznej części zajęć i wykonaj zadanie. C
 
 Jeżeli pojawiają się pytania i wątpliwości zawsze możesz je zadać za pomocą maila lub na slacku. Wszystko zostało opisane poniżej.
 
+---
+
+## Wysyłanie zadania
+
+### Zadania napisane w konsoli
+
+1. Zaloguj się do poczty akademii.
+2. Utwórz wiadomość.
+3. Jako odbiorcę wiadomości podaj adres: <pawel.woloszyn@akademiamlodychprogramistow.pl>
+4. Jako temat wiadomości wstaw: *temat zajęć* - rozwiązanie.
+5. Wejdź do stworzonego przez Ciebie rozwiazania zadań.
+6. Zaznacz cały plik z kodem aplikacji.
+7. Skopiuj.
+8. Wklej do treści wiadomości.
+9. Wyślij.
+10. Po wysłaniu, sprawdź czy nie przyszła wiadomość z błędem, jeżeli przyszła spróbuj wykonać powyższe kroki ponownie.
+
+### Zadanie napisane w aplikacji okienkowej
+
+1. Klikamy prawym przyciskiem w zakładce *Projects* na projekt:
+
+![Projekt](Grafiki/screen1.png)
+
+2. Wbieramy opcje *Open Folder in Explorer*
+
+![Projekt](Grafiki/screen2.png)
+
+3. Usuwamy katalogi `bin` i `obj`
+
+![Projekt](Grafiki/screen3.png)
+
+4. Wchodzimy do katalogu *wyżej*:
+
+![Projekt](Grafiki/screen4.png)
+
+5. Na ekranie widzimy plik `*.sln` oraz katalog z projektem:
+
+![Projekt](Grafiki/screen5.png)
+
+6. Zaznaczamy wszystko
+7. Klikamy prawym przyciskiem myszy: *Wyślij do*->*Folder skompresowany ZIP*
+8. Stworzył się plik ze skompresowanym projektem:
+
+![Projekt](Grafiki/screen6.png)
+
+9. Pozostaw otwarte okno Eksploratora Plików
+10. Zaloguj się do poczty akademii.
+11. Utwórz wiadomość.
+12. Jako odbiorcę wiadomości podaj adres: <pawel.woloszyn@akademiamlodychprogramistow.pl>
+13. Jako temat wiadomości wstaw: *temat zajęć* - rozwiązanie.
+14. Wróc do okna Eksploratora Plików.
+15. Wybierz skompresowany plik z projektem (to ten, który został utworzony w poprzednich krokach)
+16. Przeciągnij i upuść plik na okno przeglądarki z tworzoną wiadomością
+17. Wyślij.
+18. Po wysłaniu, sprawdź czy nie przyszła wiadomość z błędem, jeżeli przyszła spróbuj wykonać powyższe kroki ponownie.
+
+---
+
 ## Pytania - Email
 
 Wszelkie pytania proszę wysyłać na maila z Akademii: <pawel.woloszyn@akademiamlodychprogramistow.pl>
