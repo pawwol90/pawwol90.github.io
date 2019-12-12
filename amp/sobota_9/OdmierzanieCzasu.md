@@ -1,8 +1,8 @@
-# [Test](http://bit.ly/AkademiaMP_P2T3)
-
 # Odmierzanie czasu
 
-## Liczenie czasu
+## 1. [Test](http://bit.ly/AkademiaMP_P2T3)
+
+## 2. Liczenie czasu
 
 Czasem w aplikacji okienkowej konieczne jest wykoanie pewnych operacji w określonych interwałach czasowych lub po odczekaniu określonego czasu. 
 
