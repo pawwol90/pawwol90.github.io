@@ -1,6 +1,6 @@
 # Odmierzanie czasu
 
-## 1. [Test](http://bit.ly/AkademiaMP_P2T3)
+## 1. [Test](https://forms.gle/HsMkafihcTWd5Hk96)
 ---
 ## 2. [Materiały](Materiały.pdf)
 ---

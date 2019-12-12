@@ -1,5 +1,9 @@
 # Instrukcja do zajęć zdalnych
 
+## Obecność
+
+Pamiętaj, że Twoja obecność jest zaznaczana na podstawie wysłanego na maila zadania oraz wykonanego testu.
+
 ## Zadania
 
 W mailu dostałeś link do testu oraz treść zadania wraz z materiałami. Pamiętaj aby czytać dokument krok po kroku i stosować się do instrukcji. Jeżeli coś jest niezrozumiałe pamiętaj, że możesz zadać pytanie.
