@@ -1,4 +1,4 @@
-# Akademia Młodych programistów - Paweł Wołoszyn
+# Akademia Młodych Programistów
 
 Witaj na mojej stronie, gdzie przekazuję materiały do zajęć z akademii młodych programistów.
 
