@@ -21,5 +21,5 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
 theme: jekyll-theme-hacker
-title: [Paweł Wołoszyn]
-description: [Witam na mojej stronie github!]
+title: Paweł Wołoszyn
+description: Witam na mojej stronie github!
