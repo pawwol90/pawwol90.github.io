@@ -8,6 +8,8 @@ titles_from_headings:
   enabled: true
   strip_title: false
   collections: false
+github:
+  is_project_page: false
 include:
   - CONTRIBUTING.md
   - README.md
