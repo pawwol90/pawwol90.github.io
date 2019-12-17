@@ -10,7 +10,7 @@ titles_from_headings:
   collections: false
 github:
   repository_url: https://pawwol90.github.io
-  is_project_page: false
+  public: false
 include:
   - CONTRIBUTING.md
   - README.md
