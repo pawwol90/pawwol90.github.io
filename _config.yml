@@ -23,3 +23,7 @@ include:
 theme: jekyll-theme-hacker
 title: Paweł Wołoszyn
 description: Witam na moim podwórku!
+sass:
+  sass_dir: assets/css
+  style: :compressed
+  
