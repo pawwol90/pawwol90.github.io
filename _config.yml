@@ -9,7 +9,7 @@ titles_from_headings:
   strip_title: false
   collections: false
 github:
-  repository_url: https://pawwol90.github.io
+  home_page_url: https://pawwol90.github.io
   public: false
 include:
   - CONTRIBUTING.md
