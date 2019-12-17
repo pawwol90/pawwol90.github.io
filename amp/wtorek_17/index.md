@@ -2,4 +2,8 @@
 
 ## 17.12.2019 - Bramki logiczne
 
-[Pobierz pliki](bramki.zip)
+[Pobierz](bramki.zip)
+
+## 10.12.2019 - ComboBox i CheckBox
+
+[Materiały](P2T08_Materialy.pdf)
