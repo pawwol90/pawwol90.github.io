@@ -12,11 +12,11 @@ W tym celu służy kontrolka o nazwie `Timer`.
 
 Po wrzuceniu kontrolki na okno aplikacji w zakładce `Design` na dole znajdziemy nasz timer.
 
-![Timer w oknie edycji](Grafiki/screen1.png)
+![Timer w oknie edycji](Grafiki/t17_screen1.png)
 
 Po wybraniu timer'a w oknie edytora okna, w zakładce properties znajdują się właściwości, w których możemy ustawić:
 
-![Właściwości Timera](Grafiki/screen2.png)
+![Właściwości Timera](Grafiki/t17_screen2.png)
 
 | Właściwość | Wartość | Opis |
 |-|-|-|
@@ -45,7 +45,7 @@ Funkcję Stop można wywołać na przykład wewnątrz funkcji Tick w celu zatrzy
 
 ## Ćwiczenie 1 - zmiana tekstu po chwili
 
-![Zmiana tekstu](Grafiki/screen3.png)
+![Zmiana tekstu](Grafiki/t17_screen3.png)
 
 1. Dodaj do okna Label, Button oraz Timer.
 2. Timer nazwij (przy pomocy właściwości (Name)): `zmianaTekstu`.
@@ -63,7 +63,7 @@ Funkcję Stop można wywołać na przykład wewnątrz funkcji Tick w celu zatrzy
 
 ## Ćwiczenie 2 - licznik 
 
-![Licznik](Grafiki/screen4.png)
+![Licznik](Grafiki/t17_screen4.png)
 
 Funkcja stop może również być wywoływana w innych miejscach. W ten sposób możemy zrobić prosty licznik sekund. Ćwiczenie wyknaj na tym samym projekcie aplikacji co poprzednie zadanie. 
 1. Dodaj do aplikacji: Label, Button oraz Timer
@@ -88,7 +88,7 @@ Funkcja stop może również być wywoływana w innych miejscach. W ten sposób 
     2.  Ustaw tekst kontrolki Label według wartości zmiennej `stanLicznika`. Podpowiedź: `stanLicznika.ToString()`.
 13. Uruchom program i wciśnij przycisk *Licz*, poczekaj chwilę, licznik na Labelu powinien się zmieniać co około 1sek. Po ponownym wciśnięciu licznik powinien się zatrzymać i wyzerować. 
 
-![Całość aplikacji](Grafiki/screen5.png)
+![Całość aplikacji](Grafiki/t17_screen5.png)
 
 ## Ćwiczenia DODATKOWE
 

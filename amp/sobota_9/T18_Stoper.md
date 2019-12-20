@@ -19,7 +19,7 @@
    3. Po przyciśnięciu nowego przycisku dodawaj do listy aktualny czas wraz z numerkiem odpowiadającym konkretnemu międzyczasowi.
    4. Zmodyfikuj przycisk Reset tak, aby czyścił listę międzyczasów.
 
-![Wygląd okna](Grafiki/screen1.png)
+![Wygląd okna](Grafiki/T18_screen1.png)
 
 ## Podpowiedź 1
 
