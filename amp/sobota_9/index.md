@@ -1,5 +1,9 @@
 # Zajęcia - Soboty 09:00
 
+## 01.02.2020 - Zegarek
+
+[Materiały i zadania](T19_Zegarek)
+
 ## 21.12.2019 - Stoper
 
 [Zadanie](T18_Stoper)
