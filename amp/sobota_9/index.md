@@ -1,5 +1,9 @@
 # Zajęcia - Soboty 09:00
 
+## 08.02.2020 - TapTap
+
+[Gra: TapTap](T20_TapTap)
+
 ## 01.02.2020 - Zegarek
 
 [Materiały i zadania](T19_Zegarek)
