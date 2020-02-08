@@ -39,8 +39,9 @@ Zadania bazują na wiedzy z poprzednich zajęć.
     2.  Ukryje aktualny rekord.
     3.  Ustawi tekst przycisku na "Stop"
     4.  Ustawi nowo utworzoną zmienną `int` (poza funkcją przycisku): `CzasGry` na 10;
-    5.  Uruchomi timer
-    6.  Pokaże panel `kostka`.
+    5.  Ustawi nowo utworzoną zmienną `int`: `AktualnyWynik` na 0 i wyświtli ją w labelu z punkatmi zdobytymi przez gracza.
+    6.  Uruchomi timer
+    7.  Pokaże panel `kostka`.
 15.  Dodajemy zdarzenie timera - TimerTick, w którym:
      1.   Wyświetlamy aktualny czas z zmiennej `CzasGry` w odpowiednim labelu.
      2.   Zmniejszamy wartość czasu tak, aby czas upływał do końca.
@@ -53,7 +54,7 @@ Zadania bazują na wiedzy z poprzednich zajęć.
         4.  Ukrywamy panel `kostka`.
 17. Zaznaczamy panel, który dodaliśmy w lewym górnym rogu (`kostka`) w zakładce Properties przełączamy sie na zdarzenia (Symbol pioruna) następnie klikamy dwukrotnie w `Click`.
 18. Zdarzenie kliknięcia powinno: 
-    1.  Zwiększyć nowo utworzoną zmienną `int` (poza funkcją kliknięcia): `AktualnyWynik` o 1.
+    1.  Zwiększyć wartość `AktualnyWynik` o 1.
     2.  Zmienić tekst labela z punktami tak aby wyświetlał on aktualny stan punktów gracza w formacie `Punkty: X`, gdzie `X` to aktualny stan.
 19. Po uruchomieniu programu i rozgrywki, każde kliknięcie na kostkę na ekranie powinna zwiększać liczbę punktów. 
 20. A może by tak zmieniać po każdym kliknięciu pozycję kostki w oknie?
