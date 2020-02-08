@@ -25,7 +25,6 @@ Zadania bazują na wiedzy z poprzednich zajęć.
     1.  Aktualnego wyniku
     2.  Czasu pozostałego do konca rozgrywki
     3.  Najlepszego wyniku (patrz obrazek na górze dokumentu - `Rekord: 0`)
-    4.  Wynik aktualnej gry - domyślnie będzie ukryty (`Visible = false`) z napisem `Wynik: 0pkt` - ona będzie odpowiadała za wyświetlenie wyniku po zakonczonej rozgrywce.
 10. Dla każdego labela ustawiamy: domyślny text, nazwę - (Name), kolor czcionki - jednolita dla wszystkich labeli powinny być krój czcionki i jej rozmiar.
 11. Dodaj przycisk `Graj!` do aplikacji - ustaw mu kolor, odpowiednią wielkość czcionki. Aby kolor przycisku zajął cały jego obszar ustaw: `FlatStyle = Flat`.
 12. Dodajmy timer do naszej aplikacji, skonfugurujmy go tak, aby odliczał 1s.
