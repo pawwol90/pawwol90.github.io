@@ -42,8 +42,8 @@ Zadania bazują na wiedzy z poprzednich zajęć.
     5.  Uruchomi timer
     6.  Pokaże panel `kostka`.
 15.  Dodajemy zdarzenie timera - TimerTick, w którym:
-    7.  Wyświetlamy aktualny czas z zmiennej `CzasGry` w odpowiednim labelu.
-    8.  Zmniejszamy wartość czasu tak, aby czas upływał do końca.
+     1.   Wyświetlamy aktualny czas z zmiennej `CzasGry` w odpowiednim labelu.
+     2.   Zmniejszamy wartość czasu tak, aby czas upływał do końca.
 16. Po uruchomieniu i kliknięciu graj zegarek na dole powinien ruszyć, ale obecnie odlicza on również `ujemne` sekundy - naprawmy to:
     1.  W zdarzeniu timera sprawdźmy czy aktualny czas jest wiekszy od 0 i jeśli tak to wykonajmy poprzednio napisany fragment kodu.
     2.  W przeciwnym wypadku - kończymy naszą grę:
