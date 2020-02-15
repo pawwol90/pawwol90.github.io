@@ -81,7 +81,7 @@ W celu ustawienia rozmiaru okna, tak aby miało ono kształt kwadratu używaliś
 ## Gra - część druga
 
 1. Obecnie po naciśnięciu naszej `kostki` na ekranie zostaja zliczone punkty. Chcemy aby `kostka` po każdym kliknięciu zmieniła swoją pozycję w ramach okna.
-2. Sprawdzamy jaką lokalizację na oknie ma panel z przyciskiem i stanem gry (ten na dole okna). Zapamietujemy wartość `X` tej lokalizacji - będzie to nasz orientacyjny minimalny punkt na osi X naszego okna, w którym można narysować kwadrat.
+2. Sprawdzamy jaką lokalizację na oknie ma panel z przyciskiem i stanem gry (ten na dole okna). Zapamietujemy wartość `Y` tej lokalizacji - będzie to nasz orientacyjny maksymalny punkt na osi X naszego okna, w którym można narysować kwadrat.
 3. Szrokość naszego okna ustawiliśmy na początku zadania, wartość `width` z właściwości `Size` okna to nasza maksymalna pozycja na osi Y.
 4. Pamiętaj, że lokalizacja każdej kontrolki to jej lewy górny róg, a to oznacza, że maksymalna pozycja na osi X i Y musi być pomniejszona o rozmiar naszej kostki. W zadaniu ustaliliśmy, że będzie to 40px.
 5. Teraz pora na obliczenia naszej maksymalnej lokalizacji w oknie:
