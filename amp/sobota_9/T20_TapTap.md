@@ -128,4 +128,3 @@ int MaxY = 470;
 
 1. Zrób tak aby rozmiar kostki zmniejszał się po każdym kliknięciu np. o 2px (`Size`) kostki: `kostka.Size = new Size(kostka.Size.Width - 3, kostka.Size.Height - 3);`
 2. Zrób tak aby kolor kostki zmieniał się po każdym kliknięciu na inny - losowy. `kostka.BackColor = Color.FromArgb(rnd.Next(0, 256),rnd.Next(0, 256), rnd.Next(0, 256));`
-3. 
