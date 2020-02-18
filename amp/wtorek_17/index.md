@@ -1,5 +1,13 @@
 # Zajęcia - Wtorki 17:00
 
+## 18.02.2020 - Kontrolki message box
+
+[Kontrolki message box](P2T12.md)
+
+## 28.01.2020 + 04.02.2020 - Zapamiętywanie ustawień aplikacji
+
+[Sticky note](P2T10.md)
+
 ## 07.01.2020 - Zajęcia zdalne - Test - kontrolki ComboBox i CheckBox
 
 [Zajęcia zdalne](Test2)
