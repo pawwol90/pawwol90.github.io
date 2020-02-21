@@ -1,5 +1,9 @@
 # Zajęcia - Soboty 09:00
 
+## 22.02.2020 - Test
+
+[Test](T20_5_Test_Bomba)
+
 ## 08.02.2020 - TapTap
 
 [Gra: TapTap](T20_TapTap)
