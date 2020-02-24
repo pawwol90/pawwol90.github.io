@@ -1,5 +1,23 @@
 # Zajęcia - Soboty 10:35
 
+## 22.02.2020 - GRA - Papier Nożyce Kamień
+
+[Papier nożyce kamień](T16_Papier_nozyce_kamien)
+
+## 15.02.2020 - Pętle While
+
+[Pętle while](T15_Petle_While)
+
+
+## 08.02.2020 - Odliczanie czasu
+
+[Odliczanie czasu](T14_Odliczanie_czasu)
+[Odliczanie czasu pro](T14_Odliczanie_czasu_pro)
+
+## 01.02.2020 - Elektroniczna kostka do gry
+
+[Elektroniczna kostka do gry](T13_EKostka_do_gry)
+
 ## 21.12.2019 - Pętle FOR
 
 [Materiały](Materiały_T12.pdf)

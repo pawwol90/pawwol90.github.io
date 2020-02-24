@@ -6,7 +6,7 @@ Wykonaj [test](http://bit.ly/AkademiaMP_P2T2)
 
 ## Zadanie praktyczne
 
-[Przykład Implementacji Do Pobrania](Download/Pizza.exe)
+[Przykład Implementacji Do Pobrania](Download/Pizza.zip)
 
 Napisz program, który umożliwi obliczenie ceny pizzy.
 
