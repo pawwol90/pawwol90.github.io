@@ -2,7 +2,7 @@
 
 Na zajęciach utrwalaliśmy więdzę na temat pętli FOR
 
-```csharp class:"lineNo"
+```csharp
 public static void Main(string[] args)
 {
 	Console.WriteLine("Elektroniczna kostka do gry.");
