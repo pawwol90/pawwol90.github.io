@@ -1,6 +1,6 @@
 # Zajęcia - Wtorki 17:00
 
-## 25.02.2020 - Kontrolki ListBox
+## 25.02.2020 - Kontrolki ListBox i ComboBox
 
 [Materiały](P2T13_14_Materiały.pdf)
 
