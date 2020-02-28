@@ -1,5 +1,9 @@
 # Zajęcia - Soboty 09:00
 
+## 29.02.2020 - Lista zakupów
+
+[Lista zakupów](T21_ListaZakupow)
+
 ## 22.02.2020 - Test
 
 [Test](T20_5_Test_Bomba)
