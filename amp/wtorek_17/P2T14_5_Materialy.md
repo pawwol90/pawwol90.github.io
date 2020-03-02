@@ -56,6 +56,7 @@ Wykonaj program banner:
    3. Aby ustawić wybraną czcionkę należy posłużyć się poniższym przykładem: 
    
    ```csharp
+   baner.Font = new Font("Microsoft Sans Serif", 28);
    ```
         
 ## Punktacja stosowana przy ocenianiu:
