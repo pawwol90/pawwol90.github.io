@@ -22,7 +22,7 @@ Wykonaj program banner:
       2. Usunięcia wybranego na liście tekstu 
       3. Wyczyszczenia zapamiętanych tekstów
    4. Po kliknięciu na wybrany element listy zapisanych tekstów  zaznaczony tekst powinien zostać wpisany do kontrolki zawierającej `Tekst banera`
-   5. Każda zmiana tekstu (Zdarzenie: `TextChanged`) na kotorntolce TextBox `Tekst Banera` powinna powodować przepisanie ustawienie wprowadzonego tekstu do kontrolki Label banera na dole.
+   5. Każda zmiana tekstu (Zdarzenie: `TextChanged`) na kontrolce TextBox `Tekst Banera` powinna powodować przepisanie ustawienie wprowadzonego tekstu do kontrolki Label banera na dole.
 
 
 
