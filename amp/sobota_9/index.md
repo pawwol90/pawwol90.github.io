@@ -1,5 +1,9 @@
 # Zajęcia - Soboty 09:00
 
+## 07.02.2020 - Gra: Pong - Etap 1
+
+[Etap 1 - Pong](T22_PongE01)
+
 ## 29.02.2020 - Lista zakupów
 
 [Lista zakupów](T21_ListaZakupow)
