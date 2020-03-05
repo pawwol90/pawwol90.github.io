@@ -24,9 +24,9 @@ Na początek przygotuj projekt okna - stwórz nowy projekt aplikacji windows, a 
    3. `(Name)` = talicaWynikow
    4. `Dock` = Top - górny prostokąt
 4. Dodaj do projektu plik z zasobami (resource: Project -> Add -> New Item... -> Misc (po lewej) -> Empty Resource File)
-   1. Do otwartego pliku zasobów załaduj obrazek piłki [stąd](Grafiki/pilka.png):
+   1. Do otwartego pliku zasobów załaduj obrazek piłki [stąd](Grafiki/T22_pilka.png):
 
-    ![piłka](Grafiki/pilka.png)
+    ![piłka](Grafiki/T22_pilka.png)
 
    2. Zapisz plik i zamknij jego edycję
 5. Dodaj do okna kontrolkę PictureBox - ustaw ją mniej/więcej na środku. Ustaw właściwości kontrolki:
