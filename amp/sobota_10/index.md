@@ -1,5 +1,9 @@
 # Zajęcia - Soboty 10:35
 
+## 07.03.2020 - Test pętle, enum
+
+[Test pętle i enum](T17_Test_Petle)
+
 ## 22.02.2020 - GRA - Papier Nożyce Kamień
 
 [Papier nożyce kamień](T16_Papier_nozyce_kamien)
