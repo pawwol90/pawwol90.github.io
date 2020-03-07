@@ -18,7 +18,7 @@ Na początek przygotuj projekt okna - stwórz nowy projekt aplikacji windows, a 
 2. Dodaj do okna kontrolkę panel, który stanie się tłem naszej rozgrywki, ustaw jej właściwości:
    1. `(Name)` = background
    2. `Dock` = Fill - środkowy prostokąt
-3. Dodaj do okna pole tekstowe, które posłuży do wyświetlania wyniku. Następnie skonfiguruj jego właściwości:
+3. Dodaj do okna pole tekstowe (kontrolka typu: `Label`), które posłuży do wyświetlania wyniku. Następnie skonfiguruj jego właściwości:
    1. `Text` = "0 : 0"
    2. `TextAlign` = MiddleCenter - środkowy prostokąt
    3. `(Name)` = talicaWynikow
