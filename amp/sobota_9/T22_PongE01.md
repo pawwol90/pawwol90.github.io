@@ -40,12 +40,13 @@ Na początek przygotuj projekt okna - stwórz nowy projekt aplikacji windows, a 
    2. `(Name)` = gL - jak gracz lewy (ten po lewej stronie)
    3. `Location` = 0, 0
    4. `Size` = 15, 100
+   5. Ustaw kontrolkę w lewym górnym rogu
 7. Skopiuj własnie utworzony i skonfigurowany panel:
    1. Zaznacz panel
    2. ctrl+c
    3. ctrl+v
    4. Ustaw właściwość: `(Name)` = gP - jak gracz prawy (ten po prawej stronie)
-   5. Przenieś panel maksymalnie do prawej krawędzi okna
+   5. Ustaw kontrolkę po prawej na dole
 8. Dodaj do okna timer. Skonfiguruj go:
    1. `(Name)` = gra
    2. `Interval` = 40 - **Wyjaśnienie:** 1sek = 1000ms, aby ruch piłki sprawiał wrażenie płynnego w ciągu sekundy musi zmienić się jej pozycja na ekranie minimum 24razy. 1000/24=41.(6), a wartość 40 to 25 klatek.
