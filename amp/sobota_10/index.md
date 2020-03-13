@@ -1,5 +1,9 @@
 # Zajęcia - Soboty 10:35
 
+## 14.03.2020 - Poprawka testu
+
+[Poprawka](T17_5_Poprawka)
+
 ## 07.03.2020 - Test pętle, enum
 
 [Test pętle i enum](T17_Test_Petle)
