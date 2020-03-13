@@ -1,5 +1,13 @@
 # Zajęcia - Soboty 09:00
 
+## 07.02.2020 - Gra: Pong - Etap 2 i 3
+
+Pobierz aktualną wersję kodu: [stąd](Download/Temat_22_14.03.zip)
+
+Dokończ implementację sterowania grą: [Etap 2](T22_PongE02#ruch-gracza-po-lewej-stornie---zabezpieczenia)
+
+Zaimplementuj ruchy piłki: [Etap 3](T22_PongE03)
+
 ## 07.02.2020 - Gra: Pong - Etap 1
 
 [Etap 1 - Pong](T22_PongE01)
