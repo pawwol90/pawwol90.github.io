@@ -8,6 +8,8 @@ Dokończ implementację sterowania grą: [Etap 2](T22_PongE02#ruch-gracza-po-lew
 
 Zaimplementuj ruchy piłki: [Etap 3](T22_PongE03)
 
+Wyślij rozwiązanie na maila na podstawie opisu: [stąd](../ZdalneInstrukcja#wysyłanie-projektu-aplikacji-okienkowej) - TEMAT MAILA: Pong Etap 2 i 3
+
 ## 07.02.2020 - Gra: Pong - Etap 1
 
 [Etap 1 - Pong](T22_PongE01)
