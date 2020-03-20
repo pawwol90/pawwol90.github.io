@@ -1,10 +1,12 @@
 # Zajęcia - Soboty 09:00
 
+## 21.03.2020 - Gra: Pong - Etap 4
+
 Pobierz aktualną wersję kodu: [stąd](Download/Temat_22_21.03.zip)
 
 Dokończ implementację gry: [Etap 4](T22_PongE04)
 
-## 07.02.2020 - Gra: Pong - Etap 2 i 3
+## 14.03.2020 - Gra: Pong - Etap 2 i 3
 
 Pobierz aktualną wersję kodu: [stąd](Download/Temat_22_14.03.zip)
 
@@ -14,7 +16,7 @@ Zaimplementuj ruchy piłki: [Etap 3](T22_PongE03)
 
 Wyślij rozwiązanie na maila na podstawie opisu: [stąd](../ZdalneInstrukcja#wysyłanie-projektu-aplikacji-okienkowej) - TEMAT MAILA: Pong Etap 2 i 3
 
-## 07.02.2020 - Gra: Pong - Etap 1
+## 07.03.2020 - Gra: Pong - Etap 1
 
 [Etap 1 - Pong](T22_PongE01)
 
