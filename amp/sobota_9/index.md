@@ -1,5 +1,9 @@
 # Zajęcia - Soboty 09:00
 
+Pobierz aktualną wersję kodu: [stąd](Download/Temat_22_21.03.zip)
+
+Dokończ implementację gry: [Etap 4](T22_PongE04)
+
 ## 07.02.2020 - Gra: Pong - Etap 2 i 3
 
 Pobierz aktualną wersję kodu: [stąd](Download/Temat_22_14.03.zip)

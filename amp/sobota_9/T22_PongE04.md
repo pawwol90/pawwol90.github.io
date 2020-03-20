@@ -452,3 +452,11 @@ void GraTick(object sender, EventArgs e)
 ### Koniec etapu czwartego
 
 Mamy już działającą grę pong! Gratulacje!
+
+## Wyślij implementacje na maila
+
+Przygotuj kod źródłowy do wysyłki na podstawie [instrukcji](../ZdalneInstrukcja#wysyłanie-projektu-aplikacji-okienkowej)
+
+Adres do wysyłki: [pawel.woloszyn@akademiamlodychprogramistow.pl](mailto:pawel.woloszyn@akademiamlodychprogramistow.pl)
+
+Temat Maila: `Pong Etap 4`

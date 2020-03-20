@@ -1,5 +1,9 @@
 # Zajęcia - Soboty 10:35
 
+## 21.03.2020 - Konsolowy Starter Aplikacji
+
+[Starter Aplikacji](T18_StarterAplikacji)
+
 ## 14.03.2020 - Poprawka testu
 
 [Poprawka](T17_5_Poprawka)
