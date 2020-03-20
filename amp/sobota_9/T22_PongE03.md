@@ -157,13 +157,13 @@ void RuchPilki()
     		pilka.Location = new Point(pilka.Location.X - predkoscPilki, pilka.   Location.Y + predkoscPilki);
     		break;
     	case KierunekPilki.DolPrawo:
-    		pilka.Location = new Point(pilka.Location.X + predkoscPilki, pilka.   Location.Y + predkoscPilki);
+    		pilka.Location = new Point(pilka.Location.X + predkoscPilki, pilka.Location.Y + predkoscPilki);
     		break;
     	case KierunekPilki.GoraLewo:
-    		pilka.Location = new Point(pilka.Location.X - predkoscPilki, pilka.   Location.Y - predkoscPilki);
+    		pilka.Location = new Point(pilka.Location.X - predkoscPilki, pilka.Location.Y - predkoscPilki);
     		break;
     	case KierunekPilki.GoraPrawo:
-    		pilka.Location = new Point(pilka.Location.X + predkoscPilki, pilka.   Location.Y - predkoscPilki);
+    		pilka.Location = new Point(pilka.Location.X + predkoscPilki, pilka.Location.Y - predkoscPilki);
     		break;
     }
 }
