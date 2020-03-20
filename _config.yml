@@ -1,6 +1,7 @@
 plugins:
   - jekyll-relative-links
   - jekyll-titles-from-headings
+  - jekyll-embed-video
 relative_links:
   enabled: true
   collections: true
