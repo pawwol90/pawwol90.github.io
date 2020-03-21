@@ -235,7 +235,7 @@ Wywołajmy funkcję dla obu graczy wewnątrz funkcji timera, tak aby wyglądała
 ```csharp
 void GraTick(object sender, EventArgs e)
 {
-    (gL);
+    KolizjaGracz(gL);
     KolizjaGracz(gP);
     KolizjeGoraDol();
     KolizjeLewoPrawo();
