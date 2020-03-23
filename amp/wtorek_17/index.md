@@ -4,8 +4,6 @@
 
 [Notatnik eksperta](T16_E1)
 
-[Materiały](T16_Materiały.pdf)
-
 ## 10.03.2020 - Zasoby aplikacji
 
 [Zasoby aplikacji](P2T15)
