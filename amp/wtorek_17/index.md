@@ -1,8 +1,16 @@
 # Zajęcia - Wtorki 17:00
 
-## 16.03.2020 - Notatnik eksperta - Część 1
+## 31.03.2020 - Notatnik eksperta - Część 3
 
-[Notatnik eksperta](T16_E1)
+[Notatnik eksperta - część 3](T16_E3)
+
+## 24.03.2020 - Notatnik eksperta - Część 2
+
+[Notatnik eksperta - część 2](T16_E2)
+
+## 17.03.2020 - Notatnik eksperta - Część 1
+
+[Notatnik eksperta - część 1](T16_E1)
 
 ## 10.03.2020 - Zasoby aplikacji
 
