@@ -1,6 +1,6 @@
 # Temat 20 - Tablice utrwalanie mateirału
 
-## [Materiały](Materiały.pdf)
+## [Materiały](T20_Materiały.pdf)
 
 Temat stanowi utrwalenie i uzupełnienie wiedzy z zakresu tablic.
 
