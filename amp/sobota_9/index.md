@@ -2,6 +2,10 @@
 
 ## 28.03.2020 - Poziom 3 Czas Start! - Klasy
 
+[Klasy, podstawy - utrwalenie wiedzy i kolekcje obiektów - program drużyna](T02_KolekcjeObiektow)
+
+## 28.03.2020 - Poziom 3 Czas Start! - Klasy
+
 [Klasy](T01_Klasy)
 
 ## 21.03.2020 - Gra: Pong - Etap 4
