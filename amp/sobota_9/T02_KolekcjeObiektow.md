@@ -1,4 +1,4 @@
-# Temat 02 - Klasy, podstawy - utrwalenie wiedzy - program drużyna
+# Temat 02 - Klasy, podstawy - utrwalenie wiedzy i kolekcje obiektów - program drużyna
 
 Na ostatnich zajęciach poznaliśmy strukturę klasy, która wygląda w poniższy sposób:
 

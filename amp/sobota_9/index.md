@@ -1,6 +1,6 @@
 # Zajęcia - Soboty 09:00
 
-## 28.03.2020 - Poziom 3 Czas Start! - Klasy
+## 04.04.2020 - Klasy - utrwalenie wiedzy i kolekcje obiektów
 
 [Klasy, podstawy - utrwalenie wiedzy i kolekcje obiektów - program drużyna](T02_KolekcjeObiektow)
 
