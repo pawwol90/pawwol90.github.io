@@ -1,5 +1,9 @@
 # Zajęcia - Soboty 10:35
 
+## 04.04.2020 - Tablice - utrwalanie wiadomości
+
+[Tablice - utrwalanie wiadomości](T20_TabliceUtrwalanie)
+
 ## 28.03.2020 - Tablice
 
 [Tablice](T19_Tablice)
