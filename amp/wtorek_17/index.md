@@ -1,5 +1,9 @@
 # Zajęcia - Wtorki 17:00
 
+## 07.04.2020 - Notatnik eksperta - Część 4
+
+[Notatnik eksperta - część 4](T16_E4)
+
 ## 31.03.2020 - Notatnik eksperta - Część 3
 
 [Notatnik eksperta - część 3](T16_E3)
