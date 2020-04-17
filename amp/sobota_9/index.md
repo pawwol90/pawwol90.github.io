@@ -1,5 +1,9 @@
 # Zajęcia - Soboty 09:00
 
+## 18.04.2020 - Klasy - funkcje w klasach, czyli 'metody'
+
+[Klasy - metody](T03_Metody)
+
 ## 04.04.2020 - Klasy - utrwalenie wiedzy i kolekcje obiektów
 
 [Klasy, podstawy - utrwalenie wiedzy i kolekcje obiektów - program drużyna](T02_KolekcjeObiektow)
