@@ -15,9 +15,9 @@ Stwórz projekt aplikacji konsolowej, następnie zaznacz w nim funkcję `Main` i
 public static void Main(string[] args)
 {
     //TUTAJ NIC NIE ZMIENIAJ!!
-	int ileOsob = ZapytajOInt("Ile osób chcesz podaæ");
+	int ileOsob = ZapytajOInt("Ile osób chcesz podać");
 	string[] osoby = PobierzOsoby(ileOsob);
-	int ileWylosowac = ZapytajOInt("Ile mam wylosowaæ osób z podanej grupy");
+	int ileWylosowac = ZapytajOInt("Ile mam wylosować osób z podanej grupy");
 	WylosujOsoby(osoby, ileWylosowac);
 	Console.ReadKey(true);
 }
