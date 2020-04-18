@@ -243,7 +243,7 @@ rok - RokUrodzenia
 no i pamiętamy o słówku kluczowym `return`, które zwróci dane z metody:
 
 ```csharp
-return rok - RokUrodzenial
+return rok - RokUrodzenia;
 ```
 
 ### Zadanie 6
