@@ -1,5 +1,9 @@
 # Zajęcia - Wtorki 17:00
 
+## 21.04.2020 - Timer - wstęp
+
+[Timer](T17_Timer)
+
 ## 07.04.2020 - Notatnik eksperta - Część 4
 
 [Notatnik eksperta - część 4](T16_E4)

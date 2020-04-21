@@ -1,4 +1,4 @@
-# Temat 17 - Odmierzanie czasu
+# Odmierzanie czasu - Timer
 
 ## [Materiały](Materiały.pdf)
 
@@ -12,15 +12,15 @@ W powyższym celu służy kontrolka o nazwie `Timer`, której zastosowanie zgł�
 
 Aby dodać timer do naszej aplikacji należy dodać go tak samo jak każdą inną kontrolkę do okna - przeciągając ja z paska narzędzi na okno. W tym celu szukamy na liście kontrolki `Timer`.
 
-![Timer - kontrolka](Grafiki/screen1.png)
+![Timer - kontrolka](Grafiki/t17_screen1.png)
 
 Po przeciągnięciu jej na okno na dole pojawi się owa kontrolka - znajduje się ona w tym samym miejscu (na żółtym polu), gdzie pojawiały się w Notatniku nasze okna ładowania plików czy zmiany właściwości tekstu:
 
-![Załadowany timer](Grafiki/screen2.png)
+![Załadowany timer](Grafiki/t17_screen2.png)
 
 Po zaznaczeniu timer'a w oknie edytora okna, w zakładce properties pojawią się się właściwości, w których możemy ustawić:
 
-![Timer properties](Grafiki/screen3.png)
+![Timer properties](Grafiki/t17_screen3.png)
 
 | Właściwość | Wartość | Opis |
 |-|-|-|
@@ -49,7 +49,7 @@ Funkcję Stop można wywołać na przykład wewnątrz funkcji Tick w celu zatrzy
 
 ## Ćwiczenie 1 - zmiana tekstu na ekranie po interwale czasowym 
 
-![Zmiana tekstu](Grafiki/screen4.png)
+![Zmiana tekstu](Grafiki/t17_screen4.png)
 
 Wykonaj poniższe kroki:
 
@@ -69,7 +69,7 @@ Wykonaj poniższe kroki:
 
 ## Ćwiczenie 2 - licznik
 
-![Licznik](Grafiki/screen5.png)
+![Licznik](Grafiki/t17_screen5.png)
 
 Funkcja stop może również być wywoływana w innych miejscach. W ten sposób możemy zrobić prosty licznik sekund. Ćwiczenie wyknaj na tym samym projekcie aplikacji co poprzednie zadanie lub stwórz osobny projekt.
 
@@ -105,7 +105,7 @@ Funkcja stop może również być wywoływana w innych miejscach. W ten sposób 
 
 13. Uruchom program i wciśnij przycisk *Licz*, poczekaj chwilę, licznik na powinien się zmieniać co około 1sek. Po ponownym wciśnięciu licznik powinien się zatrzymać i wyzerować.
 
-![Gotowa aplikacja](Grafiki/screen6.png)
+![Gotowa aplikacja](Grafiki/t17_screen6.png)
 
 ## Ćwiczenia DODATKOWE
 
