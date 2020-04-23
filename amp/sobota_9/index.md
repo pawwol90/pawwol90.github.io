@@ -1,5 +1,9 @@
 # Zajęcia - Soboty 09:00
 
+## 25.04.2020 - Test - klasy
+
+[Test - klasy](T04_TestKlasy)
+
 ## 18.04.2020 - Klasy - funkcje w klasach, czyli 'metody'
 
 [Klasy - metody](T03_Metody)
