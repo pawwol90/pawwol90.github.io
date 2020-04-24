@@ -1,5 +1,9 @@
 # Zajęcia - Soboty 10:35
 
+## 18.04.2020 - Tablice wielowymiarowe
+
+[Tablice wielowymiarowe](T22_TabliceWielowymiarowe)
+
 ## 18.04.2020 - Tablice - test
 
 [Wykonaj test](T20_5_TestTablice)
