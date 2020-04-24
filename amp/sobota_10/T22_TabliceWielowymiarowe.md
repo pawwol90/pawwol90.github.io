@@ -107,7 +107,7 @@ Jak działa powyższe zagnieżdżenie pętli:
 
 Jak już zdążyłeś zauważyć nasz program nic nie wyświetla, jednak za pomocą algorytmu omówionego powyżej powinieneś potrafić wyświetlić całą salę kinową. Posłuż się kodem przedstawionym powyżej. Pamiętaj, aby pozostawić przypisany symbol `#` w wybranym przez Ciebie miejscu - teraz będzie on widoczny na ekranie. Efekt powinien być następujący:
 
-![Efekt wyświetlania tablicy](Grafiki/screen01.png)
+![Efekt wyświetlania tablicy](Grafiki/T22_screen01.png)
 Jeśli pionowe kreski na zrzucie są kolorowe - to bład - powinny być białe
 
 Policz czy wybrane przez Ciebie miejsce wyświetla się poprawnie na ekranie. Wpisałem indeks 3 i 13 wiec `#` jest w 4tym rzędzie, na miejscu 14.
@@ -280,16 +280,16 @@ Przed pierwszą pętlą dodaj do programu:
 13. Program powinien teraz działać następująco:
 
 Pytanie o miejsce widza:
-![Pytanie o miejsce widza](Grafiki/screen02.png)
+![Pytanie o miejsce widza](Grafiki/T22_screen02.png)
 
 Odświeżona sala kinowa:
-![Odświeżona sala kinowa](Grafiki/screen03.png)
+![Odświeżona sala kinowa](Grafiki/T22_screen03.png)
 
 ### Ćwiczenie 5* - NIEOBOWIĄZKOWE
 
 Wyświetl salę kinową tak, aby po bokach pojawiły się numery miejsc i rzędów.
 
-![Numery miejsc i rzędów](Grafiki/screen04.png)
+![Numery miejsc i rzędów](Grafiki/T22_screen04.png)
 
 ## Ćwiczenie 6** - NIEOBOWIĄZKOWE PRO
 
