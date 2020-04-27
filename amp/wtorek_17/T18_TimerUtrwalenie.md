@@ -90,7 +90,7 @@ Aby wyświetlić wynik w taki spósób należy odpowiednio przeliczyć zliczone 
 
 Wyświetlenie czasu na labelce powinno być następujące:
 
-   ```charp
+   ```csharp
    label1.Text = godziny.ToString() + ":" + minutyDoWyswietlenia.ToString() + ":" + sekundyDoWyswietlenia.ToString();
    ```
 
