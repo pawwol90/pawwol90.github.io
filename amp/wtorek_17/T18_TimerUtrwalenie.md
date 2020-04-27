@@ -94,3 +94,9 @@ Aby wyświetlić wynik w taki spósób należy odpowiednio przeliczyć zliczone 
    ```
 
    Powyższy kod wraz odpowiednim użyciem formatowania dla "ToString()" z `Przykładu 1` da bardzo dobry rezultat w trakcie działania programu.
+
+## Wyślij swoją pracę
+
+W celu zaliczenia obecności wyśli projekt aplikacji na podstawie opisu [stąd](../ZdalneInstrukcja#wysyłanie-projektu-aplikacji-okienkowej).
+
+W tytule maila proszę podać: `Zajęcia Zdalne - Timer cz. 2`.
