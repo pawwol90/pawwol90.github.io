@@ -1,5 +1,9 @@
 # Zajęcia - Wtorki 17:00
 
+## 28.04.2020 - Timer - utrwalenie wiadomości
+
+[Timer utrwalenie wiadomości](T18_TimerUtrwalenie)
+
 ## 21.04.2020 - Timer - wstęp
 
 [Timer](T17_Timer)
