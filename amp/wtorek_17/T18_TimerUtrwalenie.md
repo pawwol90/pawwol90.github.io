@@ -34,8 +34,7 @@ Dodaj do stopera możliwość zapisu międzyczasów:
 3. Po przyciśnięciu nowego przycisku dodawaj do listy aktualny czas wraz z numerkiem odpowiadającym konkretnemu międzyczasowi.
 4. Zmodyfikuj przycisk Reset tak, aby czyścił listę międzyczasów.
 
-
-## Podpowiedź 1
+### Podpowiedź 1
 
 Aby wyświetlić liczbę zapisaną w zmiennej: `int liczba = 4;` z zerami wiodącymi należy wykonać poniższy kod:
 
@@ -43,7 +42,7 @@ Aby wyświetlić liczbę zapisaną w zmiennej: `int liczba = 4;` z zerami wiodą
 liczba.ToString("d2");
 ```
 
-## Podpowiedź 2
+### Podpowiedź 2
 
 Zapisując w zmiennej skundy należy je dobrze przeliczyć.
 
