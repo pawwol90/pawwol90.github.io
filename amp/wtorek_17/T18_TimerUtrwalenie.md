@@ -87,10 +87,10 @@ Aby wyświetlić wynik w taki spósób należy odpowiednio przeliczyć zliczone 
 
    Idąc za przykładem: `3723 / 3600 = 1` i reszty `123`. Spójrz reszta z dzielenia to `123` sek, które są liczbą minut (`2`) i sekund (`3`) w postaci sumy sekund (`(2 x 60sek) + 3sek) = 120sek + 3sek = 123sek`). Suma ta jest przedstawiona na obliczonych wcześniej polach.
 
-Wyświetlenie czasu na labelce powinno być następujące:
+   Wyświetlenie czasu na labelce powinno być następujące:
 
    ```csharp
    label1.Text = godziny.ToString() + ":" + minutyDoWyswietlenia.ToString() + ":" + sekundyDoWyswietlenia.ToString();
    ```
 
-Powyższy kod wraz odpowiednim użyciem formatowania dla "ToString()" z `Przykładu 1` da bardzo dobry rezultat w trakcie działania programu.
+   Powyższy kod wraz odpowiednim użyciem formatowania dla "ToString()" z `Przykładu 1` da bardzo dobry rezultat w trakcie działania programu.
