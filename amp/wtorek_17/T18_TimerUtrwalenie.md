@@ -21,9 +21,10 @@ Stwórzmy prosty stoper z funkcjami: start, stop i reset:
    2. Stop -  powinien zatrzymać timer
    3. Reset - powinien zresetować wartość zliczonych sekund i pokazać czas w labelce.
 3. Dodaj do okna timer z interwałem 1s (1000ms)
-4. Do pokazywania czasu stwórz osobną funkcję, ponieważ używana ona będzie w kilku miejscach - czas wyświetlaj w formacie `Godziny:Minuty:Sekundy` - najpierw bez zer wiodących. Pamiętaj, aby dobrze obliczyć czas na podstawie zliczonych sekund - patrz `Podpowiedź 2`.
-5. Po każdym odliczeniu 1 sekundy zwiększ wartość zmiennej, która będzie naszym licznikiem sekund. Następnie użyj funkcji wyświetlającej czas - patrz punkt wcześniejszy. Jako licznik sekund użyj zmiennej typu INT i zwiększaj ją np o 1 za każdym razem kiedy wystąpi zdarzenie `Tick` timera.
-6. Jeżeli twój timer dobrze liczy czas zmodyfikuj wyświetlanie czasu tak, aby widoczne były zera wiodące - patrz `Podpowiedź 1`.
+4. W kodzie okna dodaj jako globalną zmienną (poza wszystkimi funkcjami): `int sekudny = 0;`
+5. Do pokazywania czasu stwórz osobną funkcję, ponieważ używana ona będzie w kilku miejscach - czas wyświetlaj w formacie `Godziny:Minuty:Sekundy` - najpierw bez zer wiodących. Pamiętaj, aby dobrze obliczyć czas na podstawie zliczonych sekund - patrz `Podpowiedź 2`.
+6. Po każdym odliczeniu 1 sekundy zwiększ wartość zmiennej `sekundy` która będzie naszym licznikiem sekund. Następnie użyj funkcji wyświetlającej czas - patrz punkt wcześniejszy.
+7. Jeżeli twój timer dobrze liczy czas zmodyfikuj wyświetlanie czasu tak, aby widoczne były zera wiodące - patrz `Podpowiedź 1`.
 
 ### Zadanie 2
 
