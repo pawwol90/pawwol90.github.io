@@ -1,5 +1,9 @@
 # Zajęcia - Wtorki 17:00
 
+## 05.05.2020 - Timer - utrwalenie wiadomości
+
+[Zegarek](T19_Zegarek)
+
 ## 28.04.2020 - Timer - utrwalenie wiadomości
 
 [Timer utrwalenie wiadomości](T18_TimerUtrwalenie)
