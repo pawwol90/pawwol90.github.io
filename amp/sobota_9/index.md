@@ -1,6 +1,6 @@
 # Zajęcia - Soboty 09:00
 
-## 25.04.2020 - Test - klasy
+## 09.05.2020 - Poprawka testu - klasy
 
 [Poprawka testu - klasy](T05_PoprawkaKlasy)
 
