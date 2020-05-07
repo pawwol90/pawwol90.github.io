@@ -2,6 +2,10 @@
 
 ## 25.04.2020 - Test - klasy
 
+[Poprawka testu - klasy](T05_PoprawkaKlasy)
+
+## 25.04.2020 - Test - klasy
+
 [Test - klasy](T04_TestKlasy)
 
 ## 18.04.2020 - Klasy - funkcje w klasach, czyli 'metody'
