@@ -315,3 +315,11 @@ foreach(Pojazd pojazd in pojazdy)
     Console.WriteLine("{0} {1} przejedzie drogę {2}km w czasie {3:0.00}h", pojazd.Marka, pojazd.Model, odleglosc, czas);
 }
 ```
+
+## Wyślij efekty pracy
+
+Rozwiązane zadania wyślij z uzyciem instrukcji, którą znajdziesz [tutaj](https://pawwol90.github.io/amp/ZdalneInstrukcja#wysyłanie-projektu-aplikacji-konsolowej). Pamiętaj że mail powinien zawierać pliki: `Program.cs` i `Pojazd.cs`
+
+Adres email: [pawel.woloszyn@akademiamlodychprogramistow.pl](mailto:pawel.woloszyn@akademiamlodychprogramistow.pl)
+
+Temat: `Zajęcia zdalne - 09.05.2020 - Poprawka testu z klas`
