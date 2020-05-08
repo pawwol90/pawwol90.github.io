@@ -1,6 +1,10 @@
 # Zajęcia - Soboty 10:35
 
-## 18.04.2020 - Tablice wielowymiarowe
+## 09.05.2020 - Tablice wielowymiarowe
+
+[Labirynt cz.1](T23_Labirynt_E01)
+
+## 25.04.2020 - Tablice wielowymiarowe
 
 [Tablice wielowymiarowe](T22_TabliceWielowymiarowe)
 
