@@ -1,5 +1,9 @@
 # Zajęcia - Soboty 09:00
 
+## 17.05.2020 - Poprawka testu - klasy
+
+[Mechanizm dziedziczenia](T06_Dziedziczenie)
+
 ## 09.05.2020 - Poprawka testu - klasy
 
 [Poprawka testu - klasy](T05_PoprawkaKlasy)
