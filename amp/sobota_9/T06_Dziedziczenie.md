@@ -641,3 +641,11 @@ Wtedy uruchomią się metody bezpośrednio z tej właśnie klasy:
 ## Podsumowanie
 
 Mechanizm dziedziczenia spowodował, że w klasach pozbyliśmy się części wspólnych - wydzieliliśmy je do osobnej klasy - jest to częsty zabieg, który pozwala na ograniczenie pisania tego samego kodu kilkukrotnie. Pozwala na tworzenie kolekcji obiektów o różnych typach ale podobnych właściwościach czy metodach. Oczywiście na obecnym etapie nie jesteśmy w stanie zmodyfikować specyficznych właściwości Kotka czy Pieska w takiej kolekcji, ale w przyszłości być może tego również się nauczymy.
+
+## Wyślij efekty pracy
+
+Rozwiązane zadania wyślij z uzyciem instrukcji, którą znajdziesz [tutaj](https://pawwol90.github.io/amp/ZdalneInstrukcja#wysyłanie-projektu-aplikacji-konsolowej).
+
+Adres email: [pawel.woloszyn@akademiamlodychprogramistow.pl](mailto:pawel.woloszyn@akademiamlodychprogramistow.pl)
+
+Temat: `Zajęcia zdalne - 17.05.2020 - Dziedziczenie`
