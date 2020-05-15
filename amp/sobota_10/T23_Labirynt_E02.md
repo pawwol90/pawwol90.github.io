@@ -1,6 +1,6 @@
 # Labirynt w konsoli - część 2
 
-Na najbliższych zajęciach dokończymy aplikację, która pozwoli na granie w labirynt w konsoli.
+Na dzisiejszych zajęciach dokończymy nasz labirynt. Jeżeli kod z poprzednich zajęć nie sprawił Ci problemów powinieśmieć wersję, w której kursor miga po ekranie dość intensywnie i w lewym góryn rogu dostrzegalny jest symbol gracza: `@`. Jeśli nie jesteś pewien swojego rozwiązania [stąd](Download/T23_Labirynt.zip) możesz pobrać aktualną wersje.
 
 ## Jeżeli gra nie jest skończona - pozwól na ruch
 

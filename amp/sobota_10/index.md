@@ -1,6 +1,10 @@
 # Zajęcia - Soboty 10:35
 
-## 09.05.2020 - Tablice wielowymiarowe
+## 09.05.2020 - Labirynt cz. 2
+
+[Labirynt cz.2](T23_Labirynt_E02)
+
+## 09.05.2020 - Labirynt cz. 1
 
 [Labirynt cz.1](T23_Labirynt_E01)
 
@@ -39,7 +43,6 @@
 ## 15.02.2020 - Pętle While
 
 [Pętle while](T15_Petle_While)
-
 
 ## 08.02.2020 - Odliczanie czasu
 
