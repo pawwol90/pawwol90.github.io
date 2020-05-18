@@ -1,10 +1,10 @@
 # Zajęcia - Wtorki 17:00
 
-## 11.05.2020 - Gra: Tap Tap
+## 19.05.2020 - Test - RichTextBox i Timer
 
-[Test](T20_5_Test)
+[RichTextBox i Timer](T20_5_Test)
 
-## 11.05.2020 - Gra: Tap Tap
+## 12.05.2020 - Gra: Tap Tap
 
 [Gra: TapTap](T20_TapTap)
 
