@@ -1,6 +1,10 @@
 # Zajęcia - Soboty 10:35
 
-## 09.05.2020 - Labirynt cz. 2
+## 23.05.2020 - Test tablice dwuwymiarowe
+
+[Test](T24_TestTabliceDwuwymiarowe)
+
+## 16.05.2020 - Labirynt cz. 2
 
 [Labirynt cz.2](T23_Labirynt_E02)
 
