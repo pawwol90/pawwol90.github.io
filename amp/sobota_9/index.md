@@ -1,6 +1,10 @@
 # Zajęcia - Soboty 09:00
 
-## 17.05.2020 - Poprawka testu - klasy
+## 17.05.2020 - Dziedziczenie - utrwalanie
+
+[Dziedziczenie utrwalanie](T07_DziedziczenieUtrwalanie)
+
+## 17.05.2020 - Dziedziczenie
 
 [Mechanizm dziedziczenia](T06_Dziedziczenie)
 

@@ -117,7 +117,7 @@ foreach(Uczen uczen in uczniowe)
 
 Korzystając z powyższego opisu w pliku `Program.cs` dodaj liste uczniów, uzupełnij ja danymi 5ciu uczniów, a na koniec wywołaj w pętli dla każdego ucznia z listy metodę `PrzedstawSie`.
 
-![Uczen](Grafiki/screen01.png)
+![Uczen](Grafiki/T07_screen01.png)
 
 ## UczenSzkoly - a co jeśli uczen chce podać informację o szkole?
 
@@ -319,7 +319,7 @@ uczniowe.Add(nowy);
 
 Dodaj do programu głównego w pliku `Program.cs` pytanie o to czy uczeń chce podać nazwę szkoły. Jeśli uczeń będzie chciał podać nazwę szkoły poproś go o nią i dodaj obiekt typu `UczenSzkoly` do list uczniów. Jeśli nie będzie chciał jej podawać stwórz zwykły obiekt `Uczen` tak jak miało to miejsce dotychczas. Postępuj zgodnie z opisem powyżej.
 
-![Uczen i uczeń szkoły](Grafiki/screen02.png)
+![Uczen i uczeń szkoły](Grafiki/T07_screen02.png)
 
 ## Uczeń Klasy - czyli taki uczeń co chce powiedzieć nam wszystko
 
@@ -534,8 +534,16 @@ uczniowe.Add(nowy);
 
 Po ewentualny pytaniu o nazwę szkoły dodaj dodatkowe pytanie o klase. Jeśli uczeń zgodzi się podać klasę do jakiej uczęszcza to zapytaj go o nią i stwórz obiekt `UczenKlasy` a następnie dodaj go do listy. Posugeruj się opisem powyżej.
 
-![Uczen i uczeń szkoły](Grafiki/screen03.png)
+![Uczen i uczeń szkoły](Grafiki/T07_screen03.png)
 
 ## Podsumowanie
 
 Jak zauważyleś stworzyliśmy pewną strukturę, w której każda kolejna klasa dokłada do swojej klasy nadrzędnej jakąś właściwość. Taka strutkurę można by tworzyć w nieskończoność dzięki czemu od prostego obiektu z Imieniem i Nazwiskiem możemy dojść do bardzo rozbudowanych. Dodatkowo w naszym przykładzie jeśli uczeń nie chciał podać szkoły nie musieliśmy pytać o klasę ponieważ szkoła jest potrzebna do stworzenia obiektu typu UczenKlasy, wiec bez tej informacji nie mogliśmy i tak stworzyć takiego ucznia. Przydaje się to w momencie gdy w aplikacji konieczność podania jakiejś informacji zależy od podania innnej informacji.
+
+## Wyślij efekty pracy
+
+Rozwiązane zadania wyślij z uzyciem instrukcji, którą znajdziesz [tutaj](https://pawwol90.github.io/amp/ZdalneInstrukcja#wysyłanie-projektu-aplikacji-konsolowej).
+
+Adres email: [pawel.woloszyn@akademiamlodychprogramistow.pl](mailto:pawel.woloszyn@akademiamlodychprogramistow.pl)
+
+Temat: `Zajęcia zdalne - 23.05.2020 - Dziedziczenie ćwiczenia praktyczne`
