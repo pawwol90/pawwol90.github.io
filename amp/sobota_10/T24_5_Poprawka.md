@@ -15,9 +15,9 @@ z nich będziemy losować 4 grupy po 3 drużyny:
 
 | Grupa 1 | Grupa 2 | Grupa 3 | Grupa 4 |
 | ------- | ------- | ------- | ------- |
-| -       | -       | -       | -       |
-| -       | -       | -       | -       |
-| -       | -       | -       | -       |
+| \_      | \_      | \_      | \_      |
+| \_      | \_      | \_      | \_      |
+| \_      | \_      | \_      | \_      |
 
 Tak samo losowane są drużyny do wielu turniejów miedzy narodowych. W przypadku naszego programu najpierw musimy poprosić użytkownika o zawartość koszyków. Następnie całość postępuje według poniższej listy kroków:
 
@@ -25,9 +25,9 @@ Tak samo losowane są drużyny do wielu turniejów miedzy narodowych. W przypadk
 
    | Grupa 1 |
    | ------- |
-   | -       |
-   | -       |
-   | -       |
+   | \_      |
+   | \_      |
+   | \_      |
 
 2. Bierzemy pierwszy koszyk:
 
@@ -47,7 +47,7 @@ Tak samo losowane są drużyny do wielu turniejów miedzy narodowych. W przypadk
    | Koszyk 1   |
    | ---------- |
    | Drużyna 01 |
-   | -          |
+   | \_         |
    | Drużyna 03 |
    | Drużyna 04 |
 
@@ -56,8 +56,8 @@ Tak samo losowane są drużyny do wielu turniejów miedzy narodowych. W przypadk
    | Grupa 1    |
    | ---------- |
    | Drużyna 02 |
-   | -          |
-   | -          |
+   | \_         |
+   | \_         |
 
 6. Bierzemy kolejny koszyk, w celu wylosowania kolejnej drużyny do `Grupy 1`:
 
@@ -79,7 +79,7 @@ Tak samo losowane są drużyny do wielu turniejów miedzy narodowych. W przypadk
    | Druzyna 05 |
    | Druzyna 06 |
    | Druzyna 07 |
-   | -          |
+   | \_         |
 
 9. Zapisujemy na kolejnym wolnym miejscu w `Grupie 1`:
 
@@ -87,7 +87,7 @@ Tak samo losowane są drużyny do wielu turniejów miedzy narodowych. W przypadk
    | ---------- |
    | Drużyna 02 |
    | Druzyna 08 |
-   | -          |
+   | \_         |
 
 10. Bierzemy kolejny, ostatni koszyk:
 
@@ -106,7 +106,7 @@ Tak samo losowane są drużyny do wielu turniejów miedzy narodowych. W przypadk
 
     | Koszyk 3   |
     | ---------- |
-    | -          |
+    | \_         |
     | Druzyna 10 |
     | Druzyna 11 |
     | Druzyna 12 |
@@ -123,18 +123,18 @@ Tak samo losowane są drużyny do wielu turniejów miedzy narodowych. W przypadk
 
     | Koszyk 1   | Koszyk 2   | Koszyk 3   |
     | ---------- | ---------- | ---------- |
-    | Drużyna 01 | Druzyna 05 | -          |
-    | -          | Druzyna 06 | Druzyna 10 |
+    | Drużyna 01 | Druzyna 05 | \_         |
+    | \_         | Druzyna 06 | Druzyna 10 |
     | Drużyna 03 | Druzyna 07 | Druzyna 11 |
-    | Drużyna 04 | -          | Druzyna 12 |
+    | Drużyna 04 | \_         | Druzyna 12 |
 
 15. Oprócz tego mamy uzuepłnioną `Grupę 1`:
 
     | Grupa 1    | Grupa 2 | Grupa 3 | Grupa 4 |
     | ---------- | ------- | ------- | ------- |
-    | Drużyna 02 | -       | -       | -       |
-    | Druzyna 08 | -       | -       | -       |
-    | Druzyna 09 | -       | -       | -       |
+    | Drużyna 02 | \_      | \_      | \_      |
+    | Druzyna 08 | \_      | \_      | \_      |
+    | Druzyna 09 | \_      | \_      | \_      |
 
 Jak łatwo zauważyć w kolejnych krokach jest szansa na wylosowanie miejsc w koszykach, w których nie ma już drużyn - patrząc oczywiście od technicznej strony, gdzie każdy koszyk jest tablicą jednowymiarową, a usunięcie danej drużyny z koszyka to zastąpienie nazwy drużyny pustym tekstem.
 
