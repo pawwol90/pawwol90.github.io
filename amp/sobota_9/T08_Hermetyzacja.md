@@ -123,7 +123,7 @@ private double B;
 
 Jeśli spróbujesz teraz uruchomić program okaże się, że wyrzuca on błedy:
 
-![Zabroniony dostęp](Grafiki/screen01.png)
+![Zabroniony dostęp](Grafiki/T08_screen01.png)
 
 Dodając do pól klasy `private` zabroniliśmy dostepu do nich z zewnątrz - trochę tak jakbyśmy mocno dokręcili korek w naszym słoiku. Dobrze usuńmy zatem z pliku `Program.cs` nasz wadliwy kod:
 
@@ -218,7 +218,7 @@ private void PobierzDane()
 
 Teraz ta metoda może być wywołana tylko i wyłącznie wewnątrz klasy `Prostokat`, a uruchomienie kodu w obecnym stanie skutkuje błedem:
 
-![Zabroniony dostęp](Grafiki/screen02.png)
+![Zabroniony dostęp](Grafiki/T08_screen02.png)
 
 Chcemy, aby użytkownik został zapytany o wymniary prostokąta przed dokonaniem obliczeń jego pola zatem metodę: `ObliczPole`, która wygląda teraz następująco:
 
