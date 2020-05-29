@@ -1,5 +1,9 @@
 # Zajęcia - Soboty 10:35
 
+## 30.05.2020 - Test - poprawka
+
+[Poprawka](T24_5_Poprawka)
+
 ## 23.05.2020 - Test tablice dwuwymiarowe
 
 [Test](T24_TestTabliceDwuwymiarowe)

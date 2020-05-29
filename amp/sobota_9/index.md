@@ -1,10 +1,14 @@
 # Zajęcia - Soboty 09:00
 
-## 17.05.2020 - Dziedziczenie - utrwalanie
+## 30.05.2020 - Hermetyzacja
+
+[Hermetyzacja](T08_Hermetyzacja)
+
+## 23.05.2020 - Dziedziczenie - utrwalanie
 
 [Dziedziczenie utrwalanie](T07_DziedziczenieUtrwalanie)
 
-## 17.05.2020 - Dziedziczenie
+## 16.05.2020 - Dziedziczenie
 
 [Mechanizm dziedziczenia](T06_Dziedziczenie)
 
