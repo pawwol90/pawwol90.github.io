@@ -1,5 +1,11 @@
 # Zajęcia - Wtorki 17:00
 
+## 02.06.2020 - Gra - PONG
+
+Stworzenie niniejszej gry w formie zajęć zostało zapoczątkowane przez jednego z uczniów akademii.
+
+[Pong](T22_Pong_E1)
+
 ## 19.05.2020 - Test - RichTextBox i Timer
 
 [RichTextBox i Timer](T20_5_Test)
