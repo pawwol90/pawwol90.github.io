@@ -1,5 +1,9 @@
 # Zajęcia - Soboty 10:35
 
+## 06.06.2020 - Pliki
+
+[Obsługa plików](T26_Pliki)
+
 ## 30.05.2020 - Test - poprawka
 
 [Poprawka](T24_5_Poprawka)
