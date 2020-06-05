@@ -2,7 +2,7 @@
 
 ## 06.06.2020 - Hermetyzacja zaawansowane
 
-[Hermetyzacja](T09_HermetyzacjaZaawansowane)
+[Hermetyzacja - zaawansowane](T09_HermetyzacjaZaawansowane)
 
 ## 30.05.2020 - Hermetyzacja
 
