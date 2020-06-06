@@ -6,7 +6,7 @@ Najprostszym typem plików, który może być wynikiem działania naszego progra
 
 ## Materiały
 
-Najpierw pobierz [materiały](Materiały.pdf)
+Najpierw pobierz [materiały](T26_Materialy.pdf)
 
 ## Plik tekstowy w projekcie
 
