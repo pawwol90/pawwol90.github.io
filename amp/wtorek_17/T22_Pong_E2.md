@@ -2,6 +2,10 @@
 
 ![screen](Grafiki/T22_screen01.png)
 
+## Pobierz aktualną wersję aplikacji
+
+[Stąd](Download/T22_Pong.zip) możesz pobrać aktualną wersję kodu.
+
 ## Etap 3 - Ruch piłki
 
 ### Kierunek ruchu piłki
@@ -636,3 +640,11 @@ void GraTick(object sender, EventArgs e)
 W celu zaliczenia obecności wyśli projekt aplikacji powstałej w ramach zajęć. W tym celu użyj opisu [stąd](../ZdalneInstrukcja#wysyłanie-projektu-aplikacji-okienkowej).
 
 W tytule maila proszę podaj: `Zajęcia Zdalne - Gra Pong`
+
+## NIESPODZIANKA
+
+Gdyby jednak coś Ci nie poszło podczas implementacji to [TUTAJ](Download/Pong.zip) możesz pobrać kompletnie działającą aplikację ;) Uwaga w srodku jest plik EXE antywirus na Twoim komputerze może traktować go jako zagrożenie - program jest bezpieczny.
+
+## Dziękuję
+
+Jeśli masz chwilę to proszę o zapoznanie się z [PODZIĘKOWANIEM](thanks).
