@@ -1,5 +1,9 @@
 # Zajęcia - Wtorki 17:00
 
+## 09.06.2020 - Gra - PONG
+
+[Pong](T22_Pong_E2)
+
 ## 02.06.2020 - Gra - PONG
 
 Stworzenie niniejszej gry w formie zajęć zostało zapoczątkowane przez jednego z uczniów akademii.

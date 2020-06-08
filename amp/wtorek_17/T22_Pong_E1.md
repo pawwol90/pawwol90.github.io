@@ -346,3 +346,9 @@ switch (e.KeyCode)
 ### Koniec etapu drugiego
 
 Na tym etapie posiadamy zainicjalizowaną grę oraz poprawny ruch graczy po bokach planszy.
+
+## Wyślij zadanie
+
+W celu zaliczenia obecności wyśli projekt aplikacji powstałej w ramach zajęć. W tym celu użyj opisu [stąd](../ZdalneInstrukcja#wysyłanie-projektu-aplikacji-okienkowej).
+
+W tytule maila proszę podaj: `Zajęcia Zdalne - Gra Pong - Część 1 i 2`.

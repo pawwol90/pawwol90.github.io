@@ -630,3 +630,9 @@ void GraTick(object sender, EventArgs e)
 	}
 }
 ```
+
+## Wyślij zadanie
+
+W celu zaliczenia obecności wyśli projekt aplikacji powstałej w ramach zajęć. W tym celu użyj opisu [stąd](../ZdalneInstrukcja#wysyłanie-projektu-aplikacji-okienkowej).
+
+W tytule maila proszę podaj: `Zajęcia Zdalne - Gra Pong`
