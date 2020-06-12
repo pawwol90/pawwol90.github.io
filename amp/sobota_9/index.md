@@ -1,5 +1,9 @@
 # Zajęcia - Soboty 09:00
 
+## 13.06.2020 - Bank
+
+[Bank](T10_Bank)
+
 ## 06.06.2020 - Hermetyzacja zaawansowane
 
 [Hermetyzacja - zaawansowane](T09_HermetyzacjaZaawansowane)

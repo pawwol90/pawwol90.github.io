@@ -1,5 +1,9 @@
 # Zajęcia - Soboty 10:35
 
+## 13.06.2020 - Labirynt na plikach
+
+[Labirynt](T28_LabiryntPliki)
+
 ## 06.06.2020 - Pliki
 
 [Obsługa plików](T26_Pliki)
